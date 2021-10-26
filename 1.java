@@ -5,3 +5,4 @@ extends NonOverlapMutiIntervalSetImpl<L>
 implements BlankMutiIntrevalSet<L>{
 
 }
+//对B2的修改
